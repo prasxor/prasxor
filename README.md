@@ -1,4 +1,4 @@
-[![MasterHead]([https://wallpapers.com/images/featured-full/pastel-aesthetic-grid-vicijwqr93a0hp01.jpg](https://serving.photos.photobox.com/57368907ee22d93d4f1c0ca86729a900322196990771114cb3695d282c2b003a6495e16a.jpg))]
+[![MasterHead](https://serving.photos.photobox.com/57368907ee22d93d4f1c0ca86729a900322196990771114cb3695d282c2b003a6495e16a.jpg)]
 
 <h1 align="center">Hi 👋, I'm Prashant kumar sinha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
