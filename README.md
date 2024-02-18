@@ -1,4 +1,4 @@
-[![MasterHead](https://www.vecteezy.com/vector-art/17385812-coding-system-minimal-infographic-banner-vector)]
+[![MasterHead](https://wallpapers.com/images/featured-full/pastel-aesthetic-grid-vicijwqr93a0hp01.jpg)]
 
 <h1 align="center">Hi 👋, I'm Prashant kumar sinha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
